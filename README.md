@@ -13,7 +13,6 @@ This repository includes the code for my Spring 2024 Advanced Software Engineeri
   - [Modify Equipment API](#modify-equipment-api)
   - [Search Equipment API](#search-equipment-api)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Structure
 
@@ -26,7 +25,6 @@ This repository includes the code for my Spring 2024 Advanced Software Engineeri
 
 ## Table of Contents
 
-- [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
@@ -34,23 +32,6 @@ This repository includes the code for my Spring 2024 Advanced Software Engineeri
   - [Search Equipment API](#search-equipment-api)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Project Structure
-
-Advanced-Software-Engineering-Final/
-│
-├── db/
-│ ├── db_connect.php
-│ └── initialize_db.sql
-├── api/
-│ ├── modify_equipment.php
-│ └── search_equipment.php
-├── external-site/
-│ ├── index.html
-│ └── scripts.js
-├── log_function.php
-├── README.md
-└── .gitignore
 
 
 ## Installation
@@ -67,7 +48,7 @@ Advanced-Software-Engineering-Final/
     cd Advanced-Software-Engineering-Final
     ```
 
-3. Set up the database:
+3. Set up the database (not yet Implemented, simply used to view not execute):
 
     - Import the `initialize_db.sql` file into your MySQL database.
 
